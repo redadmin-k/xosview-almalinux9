@@ -12,7 +12,7 @@ This repository provides RPM and SRPM packages of `xosview` (v1.23) built for Al
 - Akiyoshi Kurita
 
 ## Purpose
-This effort addresses the absence of a lightweight, legacy-friendly system monitor in AlmaLinux 9窶冱 default repositories. It demonstrates:
+This effort addresses the absence of a lightweight, legacy-friendly system monitor in AlmaLinux 9’s default repositories. It demonstrates:
 
 - Architecture validation on RHEL9-compatible platforms  
 - Legacy tool support for production and public-sector environments  
